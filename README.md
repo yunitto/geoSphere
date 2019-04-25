@@ -7,8 +7,9 @@ Draw 3D geodesic spheres with MATLAB!
 
 ## Getting Started
 1. Install MATLAB
-2. Download & Install [GIBBON](https://github.com/gibbonCode/GIBBON) library
-    - [How to install](https://github.com/gibbonCode/GIBBON#installation-)
+2. Download & Install [GIBBON](https://www.gibboncode.org/) library
+    - [How to install](https://www.gibboncode.org/Installation/)
+    - [GIBBON Documentation](https://www.gibboncode.org/Documentation/)
 3. Run **makeGeoSphere.m**
 
 ## Result
