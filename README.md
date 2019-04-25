@@ -1,4 +1,9 @@
 # geoSphere
+Draw 3D geodesic spheres with MATLAB!
+## What is MATLAB?
+- [Homepage](https://kr.mathworks.com/products/matlab.html)
+
+![](matlab.jpeg)
 
 ## Getting Started
 1. Install MATLAB
